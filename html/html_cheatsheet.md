@@ -1,7 +1,7 @@
-*   <pre></pre> Creates preformatted text
-*   <hl></hl> Creates the largest headline
-*   <h6></h6> Creates the smallest headline
-*   <strong></strong> Emphasizes a word (with italic or bold)
+<pre></pre> Creates preformatted text
+<hl></hl> Creates the largest headline
+<h6></h6> Creates the smallest headline
+<strong></strong> Emphasizes a word (with italic or bold)
 
 *   <p></p> Creates a new paragraph
 *   <ol></ol> Creates a numbered list
